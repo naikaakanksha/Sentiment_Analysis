@@ -25,17 +25,7 @@ Libraries: pandas, numpy, scikit-learn, NLTK, matplotlib, seaborn, Streamlit
 Deployment: Streamlit web app
 
 🏗️ Project Structure
-Sentiment_Analysis/
-│
-├── 04_Streamlit_App.ipynb       # Streamlit web app notebook
-├── all_kindle_review.csv        # Raw dataset
-├── app.py                       # Web app script
-├── cleaned_reviews.csv          # Preprocessed dataset
-├── Data_preprocess.ipynb        # Notebook for text preprocessing
-├── model_training.ipynb         # Notebook for model training
-├── sentiment_model.pkl          # Saved trained model
-├── tex_preprocess.py            # Text preprocessing helper script
-└── tfidf_vectorizer.pkl         # Saved TF-IDF vectorizer
+<img width="947" height="352" alt="image" src="https://github.com/user-attachments/assets/04af0a2c-8dc2-46dd-aab9-3c819ce0c94d" />
 
 🌱 Usage
 Input text in the app to get sentiment predictions.
